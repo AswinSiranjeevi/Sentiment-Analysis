@@ -2,7 +2,7 @@
 Sentiment Analysis of Tweets on US Presidential Election using ML
 
 
-A Natural Language Processing (NLP) project that analyzes public sentiment around Donald Trump based on tweet data. Built using Python in Google Colab, this notebook performs text preprocessing, sentiment classification, and result visualization.
+A Natural Language Processing (NLP) project that analyzes public sentiment around the US Election 2021 based on tweet data. Built using Python in Google Colab, this notebook performs text preprocessing, sentiment classification, and result visualization.
 
 ## 📊 Project Overview
 
@@ -23,7 +23,7 @@ This project covers:
 
 ## 📁 Files
 
-- `Trump_Sentiment_analysis.ipynb`: The full notebook with all preprocessing, analysis, and plots.
+- `Sentiment_analysis.ipynb`: The full notebook with all preprocessing, analysis, and plots.
 
 ## 🚀 How to Run
 
@@ -37,9 +37,4 @@ This project covers:
 - Word cloud for positive and negative tweets
 - Summary statistics for polarity and subjectivity
 
-## ✅ Requirements
 
-Install dependencies from `requirements.txt`:
-
-```bash
-pip install -r requirements.txt
